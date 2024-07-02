@@ -1,0 +1,5 @@
+train: /kaggle/working/yolov5/data/train/images
+val: /kaggle/working/yolov5/data/val/images
+
+nc: 3
+names: ['apple','banana','orange']
